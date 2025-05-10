@@ -1,0 +1,77 @@
+.auth-page {
+    min-height: 100vh;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .auth-box {
+    background: #fff;
+    padding: 2.5rem 2rem;
+    border-radius: 12px;
+    max-width: 400px;
+    width: 100%;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    text-align: center;
+  }
+  
+  .auth-box h2 {
+    margin-bottom: 1.5rem;
+    color: #2a5298;
+  }
+  
+  .input-group {
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 0.3rem;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+  
+  .auth-btn {
+    width: 100%;
+    padding: 0.75rem;
+    background: #2a5298;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: background 0.3s;
+  }
+  
+  .auth-btn:hover {
+    background: #1e3c72;
+  }
+  
+  .switch-text {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .switch-text a {
+    color: #2a5298;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .switch-text a:hover {
+    text-decoration: underline;
+  }
+  

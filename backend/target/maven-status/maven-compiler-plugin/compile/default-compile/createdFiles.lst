@@ -1,0 +1,9 @@
+com\learnhub\dto\LoginRequest.class
+com\learnhub\service\JwtService.class
+com\learnhub\controller\AuthController.class
+com\learnhub\model\User.class
+com\learnhub\config\SecurityConfig.class
+com\learnhub\config\CorsConfig.class
+com\learnhub\repository\UserRepository.class
+com\learnhub\dto\SignupRequest.class
+com\learnhub\LearnHubApplication.class
